@@ -7,6 +7,7 @@
 - DataModel 该层提供基本的数据模型封装
 - ViewModel 该层隔离了数据模型和视图,使用Livedata数据观察，使不同形式的页面在功能和数据上可以复用
 - View 该层为视图层提供可视和交互
+图中模块的关联箭头仅仅代表模块引用关系
 ![8371644905257_ pic](https://user-images.githubusercontent.com/10151414/154002579-8471732a-dae3-4104-a9be-c7f37f97d9b2.jpg)
 
 ## 目录结构
