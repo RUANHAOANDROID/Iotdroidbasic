@@ -5,7 +5,7 @@
 - MQTT broker 架设在服务器上提供端到端的处理转发
 - Web service 提供了MQTT以外的服务
 - DataModel 该层提供基本的数据模型封装
-- ViewModel 该层隔离了数据模型和视图,使用Livedata作为，使不同形式的页面在功能和数据上可以复用
+- ViewModel 该层隔离了数据模型和视图,使用Livedata数据观察，使不同形式的页面在功能和数据上可以复用
 - View 该层为视图层提供可视和交互
 ![8371644905257_ pic](https://user-images.githubusercontent.com/10151414/154002579-8471732a-dae3-4104-a9be-c7f37f97d9b2.jpg)
 
