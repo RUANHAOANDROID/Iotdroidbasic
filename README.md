@@ -3,7 +3,7 @@
 ## 基础架构
 基础模块中涵盖了
 - MQTT broker 架设在服务器上提供端到端的处理转发
-- Web service 提供了基础的MQTT topic注册、发现
+- Web service 提供了MQTT以外的服务
 - DataModel 该层提供基本的数据模型封装
 - ViewModel 该层隔离了数据模型和视图,使用Livedata作为，使不同形式的页面在功能和数据上可以复用
 - View 该层为视图层提供可视和交互
