@@ -1,12 +1,7 @@
 # 简单的Iot设备基础模块
 ## 基础架构
-<iframe  
- height=850 
- width=90% 
- src="https://www.processon.com/view/link/5c175790e4b00c79befffb20"  
- frameborder=0  
- allowfullscreen>
- </iframe>
+![8371644905257_ pic](https://user-images.githubusercontent.com/10151414/154002579-8471732a-dae3-4104-a9be-c7f37f97d9b2.jpg)
+
 ## 目录结构
 ```
 main
